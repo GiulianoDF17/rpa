@@ -16,3 +16,5 @@ some simple code. See chapters one and three of the book.
 To use this project, create some Student objects, then create a LabClass object.
 Add the students to the class using the "enrolStudent" method. Print a class
 list.
+
+22. Using an flexible-size (ArrayList) makes it simplier and more flexible since it allows the it to work quicker, but the fixed-size is harder and just lesscomplicated.
